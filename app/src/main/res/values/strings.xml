@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Jessie Demo Project</string>
+    <string name="popup_txt">Hello! Welcome to CS160!</string>
+</resources>
